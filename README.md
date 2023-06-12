@@ -22,9 +22,9 @@ The code uses Python3.6.9 and is separated into four sections:
 
 Please be advised that sufficient RAM or cluster access to parallel processing is needed to run these experiments.
 
-UPDATE (Jan. 6, 2023)
+### UPDATE (Jan. 6, 2023)
 The radiology and the discharge notes for MIMIC-IV have been officially released on:
 https://physionet.org/content/mimic-iv-note/2.2/note/#files-panel
 
-UPDATE (Jun. 12, 2023)
-For the publication our team generated the file 'mimic-cxr-2.0.0-jpeg-txt.csv' by compiling an early-release version of participant notes and text from the images in CXR corresponding to MIMIC-IV. We wanted to add these to this repository, but the datga policy from PhysioNet.org states we cannot directly share this compiled data via github. Physionet is the only ones with permision to do so or subsets of the data. This means users need to generate their own mimic-cxr-2.0.0-jpeg-txt.csv based on the released notes and CXR files from physionet once all notes are released. Dataset structure can be infered from the code. As of June 12, 2023, Physionet has not fully released these notes, but it is likely they are planning to do so as part of their full release of MIMIC-IV. We apologize for any inconvenience this may cause.
+### UPDATE (Jun. 12, 2023)
+For the publication, our team generated the file 'mimic-cxr-2.0.0-jpeg-txt.csv' by compiling an early-release version of participant notes and text from the images in CXR corresponding to MIMIC-IV. We wanted to add these to this repository, but the data policy from PhysioNet.org states we cannot directly share this compiled data via Git Hub. Physionet is the only one with permission to do so or subsets of the data. This means users need to generate their own mimic-cxr-2.0.0-jpeg-txt.csv based on the released notes and CXR files from Physionet.org once all notes are released. The dataset structure can be inferred from the code. As of June 12, 2023, Physionet has not fully released these notes, but it is likely they are planning to do so as part of their full release of MIMIC-IV. We are very sorry for any inconvenience this may cause.
