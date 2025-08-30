@@ -9,7 +9,7 @@ Artificial intelligence (AI) systems hold great promise to improve healthcare ov
 
 ## Code
 
-The code uses Python3.6.9 and is separated into four sections:
+The code uses Python 3.6.9 and is separated into four sections:
 
 0 - Software Package requirement
 
